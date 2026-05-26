@@ -14,8 +14,6 @@ Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB), 
 
 ---
 
----
-
 ## GitHub Stats
 
 <p align="center">
